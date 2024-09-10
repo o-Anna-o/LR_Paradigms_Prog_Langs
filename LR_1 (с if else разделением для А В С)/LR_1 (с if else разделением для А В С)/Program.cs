@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
 
 namespace LR_1
 {
@@ -51,18 +51,38 @@ namespace LR_1
                 {
                     double root1 = Math.Sqrt(TempVal1);
                     double root2 = -Math.Sqrt(TempVal1);
-
-                    Console.WriteLine("Корень 1: {0:F2}", root1);
-                    Console.WriteLine("Корень 2: {0:F2}", root2);
+                    if (root1 == 0)
+                    {
+                        Console.WriteLine("Корень 1: {0:F2}", -root1);
+                    }
+                    else if (root1 == root2)
+                    {
+                        Console.WriteLine("Корень 1: {0:F2}", root1);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Корень 1: {0:F2}", root1);
+                        Console.WriteLine("Корень 2: {0:F2}", root2);
+                    }
                 }
 
                 if (TempVal2 >= 0)
                 {
                     double root3 = Math.Sqrt(TempVal2);
                     double root4 = -Math.Sqrt(TempVal2);
-
-                    Console.WriteLine("Корень 3: {0:F2}", root3);
-                    Console.WriteLine("Корень 4: {0:F2}\n", root4);
+                    if (root3 == -0) 
+                    { 
+                        Console.WriteLine("Корень 4: {0:F2}", -root3);
+                    }
+                    else if (root3 == root4)
+                    {
+                        Console.WriteLine("Корень 3: {0:F2}", root3);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Корень 3: {0:F2}", root3);
+                        Console.WriteLine("Корень 4: {0:F2}", root4);
+                    }
                 }
                 Console.ResetColor();
             }
