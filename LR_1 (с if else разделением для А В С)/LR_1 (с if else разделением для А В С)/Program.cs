@@ -21,6 +21,8 @@ namespace LR_1
                 double.TryParse(args[0], out A);
                 double.TryParse(args[1], out B);
                 double.TryParse(args[2], out C);
+                Console.WriteLine("А В С получены из командной строки\n");
+                Console.WriteLine("(" + args[0] + ")x^4 + (" + args[1] + ")x^2 + (" + args[2] + ") =0\n");
 
                 //если таковые заданы (проверим и если нет - попросим пользователя ввести их вручную)
                 if (!double.TryParse(args[0], out A) || !double.TryParse(args[1], out B) || !double.TryParse(args[2], out C))
