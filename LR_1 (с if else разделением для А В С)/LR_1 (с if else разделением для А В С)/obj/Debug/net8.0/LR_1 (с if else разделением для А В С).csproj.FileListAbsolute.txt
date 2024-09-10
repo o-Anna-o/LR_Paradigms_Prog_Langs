@@ -1,0 +1,14 @@
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\bin\Debug\net8.0\LR_1 (с if else разделением для А В С).exe
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\bin\Debug\net8.0\LR_1 (с if else разделением для А В С).deps.json
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\bin\Debug\net8.0\LR_1 (с if else разделением для А В С).runtimeconfig.json
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\bin\Debug\net8.0\LR_1 (с if else разделением для А В С).dll
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\bin\Debug\net8.0\LR_1 (с if else разделением для А В С).pdb
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\obj\Debug\net8.0\LR_1 (с if else разделением для А В С).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\obj\Debug\net8.0\LR_1 (с if else разделением для А В С).AssemblyInfoInputs.cache
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\obj\Debug\net8.0\LR_1 (с if else разделением для А В С).AssemblyInfo.cs
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\obj\Debug\net8.0\LR_1 (с if else разделением для А В С).csproj.CoreCompileInputs.cache
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\obj\Debug\net8.0\LR_1 (с if else разделением для А В С).dll
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\obj\Debug\net8.0\refint\LR_1 (с if else разделением для А В С).dll
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\obj\Debug\net8.0\LR_1 (с if else разделением для А В С).pdb
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\obj\Debug\net8.0\LR_1 (с if else разделением для А В С).genruntimeconfig.cache
+C:\Users\AnnaA\source\repos\LR_1 (с if else разделением для А В С)\LR_1 (с if else разделением для А В С)\obj\Debug\net8.0\ref\LR_1 (с if else разделением для А В С).dll

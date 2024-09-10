@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LR_1 (с if else разделением для А В С)": {
+      "commandName": "Project",
+      "commandLineArgs": "1 -5 6"
+    }
+  }
+}
