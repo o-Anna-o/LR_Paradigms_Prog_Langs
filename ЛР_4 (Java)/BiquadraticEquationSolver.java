@@ -5,31 +5,6 @@ public class BiquadraticEquationSolver {
     public static void solve(double a, double b, double c) {
         System.out.printf("Уравнение: (%.1f)x^4 + (%.1f)x^2 + (%.1f) = 0%n", a, b, c);
 
-        if (a == 0) {
-            if (b == 0) {
-                if (c == 0) {
-                    System.out.println("Уравнение имеет бесконечно много решений.");
-                } else {
-                    System.out.println("Уравнение не имеет решений.");
-                }
-            } else {
-                double x2 = -c / b;
-                if (x2 < 0) {
-                    System.out.println("Корней нет.");
-                } else {
-                    double x = Math.sqrt(x2);
-                    if (x == -0) {
-                        printRoot(1, -x);
-                    }
-                    else {
-                        printRoot(1, x);
-                        printRoot(2, -x);
-                    }
-                }
-            }
-            return;
-        }
-
         double D = b * b - 4 * a * c;
         System.out.printf("Дискриминант: %.2f%n", D);
 
